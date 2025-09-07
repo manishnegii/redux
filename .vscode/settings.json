@@ -1,0 +1,8 @@
+{
+    "github.copilot.enable": false,
+    "editor.inlineSuggest.enabled": false,
+    "tailwindCSS.suggestions": true,
+    "editor.quickSuggestions": {
+        "strings": true
+    }
+}
